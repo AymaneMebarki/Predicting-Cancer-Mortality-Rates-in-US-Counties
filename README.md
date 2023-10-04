@@ -3,7 +3,7 @@
 The provided dataset comprises data collected from multiple counties in the US. The aim of this data science project is to predict cancer mortality rates in "unseen" US counties, given some training data. It uses scikit learn to construct multiple machine learning pipelines which are then utilised to predict the training data. 
 
 
-The training data ('Training_data.csv') comprises various features/predictors related to socio-economic characteristics, amongst other types of information for specific counties in the country. The corresponding target variables for the training set are provided in a separate CSV file ('Training_data_targets.csv'). These files are included in the repository.
+The training data ('Training_data.csv') comprises various features/predictors related to socio-economic characteristics, amongst other types of information for specific counties in the country. The corresponding target variables for the training set are provided in a separate CSV file ('Training_data_targets.csv'). These training files alongside their corresponding testing data files are included in this repository. 
 
 
 The list of features contained in this dataset are described in the data dictionary below:
